@@ -1,3 +1,3 @@
-# Git-Domonstration ....its a git learning tutorial projects
+# Git-Domonstration ....its a git learning tutorial project
 <br>
 Author- Saib Utsow
